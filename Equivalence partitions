@@ -1,0 +1,2 @@
+The documentation states that the Race and Sex fields have a one character limit. I want to test to make sure those fields will only accept one character.
+The sex field will only accept three letters in the alphabet. I want my tests to make sure that those letters are accepted while the rest are rejected.
